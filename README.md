@@ -5,7 +5,7 @@ Simple banking system that allows to create/close an account, log in/log out to 
 - Command-line argument
 - Luhn Algorithm (for checking the card number validity)
 - SQLite DBMS
-- JDBC transactions  
+- JDBC API  
 ## Running the project
 To run the program from CMD:
    1. Open CMD and go to .\Simple_Banking_System
